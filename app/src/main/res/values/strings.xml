@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test prog</string>
+    <string name="main_botton">Autre chose</string>
+    <string name="main_application">Application</string>
+    <string name="main_sortie">Sortie</string>
+    <string name="main_entrer">Entrer</string>
+</resources>
